@@ -1,0 +1,61 @@
+
+
+Aidan Brandt
+I'm the founder of a non-profit organization called the Displacement Data Project, which processes and stores data on forced migration around the world. I'm also a student at the University of St. Andrews in Scotland, where in my spare time I pursue an M.A. in International Relations and Economics. If you're looking for my PGP public key, look here.
+Experience
+Director Displacement Data Project  
+I started the Displacement Data Project, which processes data on forced migration around the world. I'm also the architect of the only international standard for such data. See our work here.
+
+August 2015 - Present
+Business Director Heights Automotive Services  
+At Heights Automotive Services, I worked as Business Director> I was in charge of all marketing and customer relations efforts, and I produced >350% compounded monthly sales growth. I also supervised the management of several large accounts.
+Summer 2015
+Senior Instructor University School Public Forum Debate Camp 
+I planned and taught the curriculum for a debate camp for high school students at my alma mater.
+Summer 2015
+Research Assistant Cleveland State University Energy Policy Center  
+At Cleveland State, I modeled the pricing dynamics of natural gas and natural gas liquids (NGLs). I also led efforts to track and analyze the development of natural gas deposits by public companies in the US. I contributed to the 2015 Shale Gas Economic Impact Report, which influences $1 billion USD in public and private investment.
+Summer 2014
+Vice President University School Student Investment Fund 
+I managed a $100,000 USD investment portfolio on behalf of the schoolâ€™s endowment. During my time, I primarily covered energy and basic materials, producing a >10% compounded return.
+May 2012 - May 2015
+
+
+
+Education
+M.A. (Honours) International Relations and Economics University of St. Andrews  St. Andrews, United Kingdom 
+	•	This is an undergraduate program leading to an M.A. in both disciplines
+	•	Societies: Economics Society, Investment Society, Union Debating Society
+	•	Coursework: Mathematics for Economists
+
+2019 
+High School Diploma University School  Cleveland, Ohio 
+	•	Honors Classification
+	•	Societies: Debate (Head Captain), Investment, US News (Editor)
+
+2015
+
+
+Awards
+2015 State Champion, Public Forum Debate Ohio High School Speech League  
+March 2015
+2015 National Fifth Place, Public Forum Debate National Speech and Debate Assocation
+June 2015
+2015 Henry Strater Award in Speech and Debate University School
+May 2015
+
+
+Skills
+Technical Git, HTML/CSS, Microsoft Excel, Python, R Statistical Computing 
+Non-Technical Analytic Methodologies, Data Collection, Financial Modeling, Graphic Design, Open-Source Intelligence Analysis, Public Speaking, Research
+
+
+Projects
+"Specification: Open Displacement Data Standard (ODDS)" Displacement Data Project 
+"United Kingdom Asylum Data Repository" Displacement Data Project
+"United Kingdom Asylum Data Extraction Tool" Displacement Data Project 
+
+
+Contact
+aidan@aidanbrandt.com Personal Email 
+aidan@displacementdata.org Displacement Data Project Email
